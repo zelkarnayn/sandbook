@@ -1,0 +1,18 @@
+.main {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    background-color: #1a1a1a;
+    padding: 10px;
+}
+
+.sing {
+    display: flex;
+    flex-direction: column;
+}
+
+.auth_input {
+    height: 20px;
+    margin: 5px 0px;
+    width: 250px;
+}
